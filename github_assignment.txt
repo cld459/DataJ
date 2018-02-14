@@ -1,0 +1,3 @@
+It looks like this particular code is used to collect river gauage data from various points along the river. According to the code, it provides "a look at current stages on area rivers, plus forecast maximums and historical records." 
+
+I'm not certain exactly how the program scrapes data, and I'm also not certain where the data is coming from. I can see the css style preferences written out, in addition to a section titled Google Tag manager, but I'm not clear as to what that section is for. 
